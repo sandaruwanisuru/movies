@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  height: 80px;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 22px;
+}
+
+.logo {
+  height: 50px;
+  width: 80px;
+}
