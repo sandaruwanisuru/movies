@@ -1,10 +1,11 @@
 {
   "name": "movie",
   "private": true,
-  "version": "0.0.0",
   "homepage": "https://sandaruwanisuru.github.io/movies",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
